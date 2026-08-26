@@ -1,4 +1,6 @@
 void main() {
+  // Привет Сенсей!
+
   // DRY - don't repeat yourself
   print('ЗАВТРАК');
   makeTea();
