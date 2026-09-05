@@ -4,6 +4,7 @@ import 'interfaces.dart';
 import 'mixins.dart';
 
 void main() {
+  // Start of program
   Cat cat = Cat('Tom', 2);
   Plane plane = Plane();
 
